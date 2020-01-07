@@ -1,4 +1,5 @@
 IPTV,#genre#
+xx,http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55580.ts
 中天新闻,http://192.200.108.130:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 东森新闻,http://192.154.103.74:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 年代新闻,http://192.200.108.130:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
